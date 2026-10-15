@@ -37,11 +37,12 @@ Hi, I'm **Zaryab** — a hands-on **Lead Android Developer** in Berlin. For 8+ y
 
 | Project | What it shows |
 |---|---|
-| [**Android Media Gallery**](https://github.com/Iamzaryab/Android-Media-Gallery) | Clean Architecture, MVI with StateFlow, Hilt, MediaStore, unit-tested repository layer |
-| [**Movie App — Jetpack Compose**](https://github.com/Iamzaryab/Movie-Application-Android-Jetpack-Compose) | Declarative UI with Jetpack Compose and Hilt |
 | [**FilmKu**](https://github.com/Iamzaryab/Flutter-Movie-App-with-Clean-Architecture-and-RiverPod-State-Management) · ⭐ 100+ | Flutter on Clean Architecture with Riverpod and an Isar offline cache |
+| [**Movie App — Jetpack Compose**](https://github.com/Iamzaryab/Movie-Application-Android-Jetpack-Compose) | Declarative UI with Jetpack Compose and Hilt |
 | [**secp256k1 for Android**](https://github.com/Iamzaryab/Secp256K1-android) | Native elliptic-curve crypto: Java wrapper over the C library via JNI |
+| [**BIP39 Mnemonic**](https://github.com/Iamzaryab/Bip39-Mnemonic-android) · <sub>fork</sub> | BIP39 mnemonic generation for Android wallets (Java) — pairs with secp256k1 for key derivation |
 | [**ChatGPT Client (KMP)**](https://github.com/Iamzaryab/Chat-GPT-Application-KMM) | Kotlin Multiplatform experiment sharing domain and data layers across Android and iOS |
+| [**Android Media Gallery**](https://github.com/Iamzaryab/Android-Media-Gallery) | Clean Architecture, MVI with StateFlow, Hilt, MediaStore, unit-tested repository layer |
 
 ## Toolbox
 
